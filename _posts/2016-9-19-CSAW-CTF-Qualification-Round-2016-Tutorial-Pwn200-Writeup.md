@@ -12,17 +12,18 @@ With Libc given in addition to all these leaked informationwe can rebuild the pr
 Below is the exploit I wrote to pwn the service, the script process as follows:
 
 
-+Leak puts() address.
-+Calculate system() address.
-+Leak Canary value.
-+Leak a Stack address.
-+Calculate the receive buffer address.
-+Place the command to be executed in recieve buffer.
-+Place the canary
-+ROP to system with recieve buffer address as argument.
-+Put all together
-+Enjoy !
+- Leak puts() address.
+- Calculate system() address.
+- Leak Canary value.
+- Leak a Stack address.
+- Calculate the receive buffer address.
+- Place the command to be executed in recieve buffer.
+- Place the canary
+- ROP to system with recieve buffer address as argument.
+- Put all together
+- Enjoy !
 
+<!--more-->
   
 My exploit:
 
