@@ -19,6 +19,8 @@ The first step I did is printing the symbol table of the shared library to figur
 
 By running  _objdump -T_  I got mangled symbols name. De-mangling can be done using _nm -C_.
 
+<!--more-->
+
 ```c++
 root@maro-vm:~/hackit/rev375# nm -C SecretLabXLib.so
 ...
