@@ -1,4 +1,3 @@
-
 Hi,
 
 This is a quick and dirty writeup for realism task.
@@ -15,7 +14,9 @@ When operating on 128-bit operands, two packed results are computed. Here, the 8
 
 Then the computed sum of absolute differences are compared against excpected result. 2 chars are compared at one time.  
 
-Following is my solver.
+Following is my solver:
+
+<!--more-->
 
 ```python
 from z3 import *
