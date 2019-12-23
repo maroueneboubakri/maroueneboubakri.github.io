@@ -3,7 +3,7 @@ Hi !
 On executing the file, the process will be duplicated 400 times. Each process creates its child by a command line that contains 3 arguments. The first and second arguments are numbers used in a hashing function and used also to generate the next process arguments. The third argument is the process number.
 So, the task typically is about finding which child process contains the flag (or what are the corrects args to pass to the program).
 My approach to solve the tass was first to generate the correct arguments sequence numbers, then try to pass them to the hashing function "sub_401070" with a string at .text:00401149 , and try to figure out the result.
-
+<!--more-->
 The script I created to generate the sequence was a little bit complicated, the result was :
 
     3026539702 3580248161 2
