@@ -1,14 +1,13 @@
 
 Hi,
 
- European Cyber Week CTF is a contest exclusively reserved for "European" students.
+European Cyber Week CTF is a contest exclusively reserved for "European" students.
 
 I'am not eligible to play but I joined the CTF later in order to keep practicing and learn new stuff .
 
 Red Diamond in the Binary category was the hardest task regarding the number of players who solved it (7 solves).
 
 The given file was a Windows binary for AMD64 !
-
 
 I imported the binary file into IDAPro, then, with a top-down look at the string list I saw many paths to  **mruby** header files such as _/home/FlL/mruby1.3.0/mruby/include/mruby/value.h_
 
@@ -27,6 +26,8 @@ The bytecode program starts from offset 0x80A20 in the file (0x100482020 offset 
 I dumped the bytecode to a  _red_diamond.mrb_  file.
 
 Mruby package provides an interpreter program "mruby". I downloaded mruby sources and I compiled it.
+
+<!--more-->
 
 ```bash
 root@maro-vm:~/ecw# git clone https://github.com/mruby/mruby.git
