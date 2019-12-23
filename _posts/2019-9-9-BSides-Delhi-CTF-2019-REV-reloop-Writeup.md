@@ -1,7 +1,6 @@
 Hi,
  
- The challenge file is here 
-[https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view](https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view)
+The challenge file is [https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view](here)
   
 Following is my solver using Angr: 
 
