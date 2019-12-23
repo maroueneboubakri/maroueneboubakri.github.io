@@ -1,5 +1,3 @@
-
-  
 Hi,
 
 The task worths 360 pts. I was the first solver to earn bonus points, but, I didn't like the fact of releasing hint few hours before the end of the CTF, since there were few teams already solved the challenge without hints and with a lot of guessing and this is totally unfair.
