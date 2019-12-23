@@ -9,6 +9,7 @@ This time I will just publish the exploits I wrote to solve the tasks.
  3. Brute force the remaining byte 
  4. ROP chain to run a commande
 
+<!--more-->
 
 ```python
 from pwn import *
