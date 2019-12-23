@@ -1,11 +1,12 @@
-
 Hi,
 
 Typically this was not really a web task but a reversing one instead. The task implements a relatively small and straightforward custom VM interpreter using Javascript.
 
-_crackme! http://95.85.55.168/vmctf.html_
+crackme! http://95.85.55.168/vmctf.html_
 
-_Here is my solver in case you want to skip the explanation:_
+Here is my solver in case you want to skip the explanation:
+
+<!--more-->
 
 ```python
 # maro - Pwnium
