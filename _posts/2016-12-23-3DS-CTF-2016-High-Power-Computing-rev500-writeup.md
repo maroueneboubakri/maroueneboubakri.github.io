@@ -7,6 +7,8 @@ The job is simply to analyse function by function, figure out what it does and s
 
 For example let's start with  _um()_  function
 
+<!--more-->
+
 ```c
 __uint64 um(__uint64 a1)
 {
