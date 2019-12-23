@@ -11,6 +11,8 @@ It is Redis (REmote DIctionary Server) a key store.
 
 Now we inject some values in the login form, the couple foo/bar give "User not found"
 
+<!--more-->
+
 We try to inject some special chars, we put foo+bar as username and bar as password we get :
 
 Our open source, BSD licensed, advanced key-value store returned an error: -ERR wrong number of arguments for 'get' command
