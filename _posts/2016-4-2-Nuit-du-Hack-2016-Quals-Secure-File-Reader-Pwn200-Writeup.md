@@ -1,7 +1,3 @@
----
-excerpt_separator: <!--end_excerpt-->
----
-
 Hi,
 
 I'm member of Pwnium tunisian CTF team. We were ranked #31 in this CTF ! 
