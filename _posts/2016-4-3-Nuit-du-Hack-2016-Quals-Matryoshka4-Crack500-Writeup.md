@@ -8,6 +8,7 @@ file stage4.bin
 stage4.bin: DOS/MBR boot sector
 ```
 
+<!--more-->
 
 The given binary is a bootloader. To run it I used qemu.
 
