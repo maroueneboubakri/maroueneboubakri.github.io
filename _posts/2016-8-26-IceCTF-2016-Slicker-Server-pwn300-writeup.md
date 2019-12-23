@@ -14,6 +14,8 @@ When you import the binary into IDApro, you can easily figure out that the progr
 
 The program sets up the webroot directory specified as argument then it starts listening for incoming connections in port 6601. For each accepted client a  **worker_thread** is created.
 
+<!--more-->
+
 ```assembly
 .text:0000000000401172 worker_thread:
 .text:0000000000401172                 mov     rbp, rsp
