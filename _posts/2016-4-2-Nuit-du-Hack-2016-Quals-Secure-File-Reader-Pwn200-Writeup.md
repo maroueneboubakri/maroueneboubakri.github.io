@@ -22,7 +22,7 @@ gdb-peda$ i r eip
 eip 0x41414141 0x41414141
 ```
 
-<!--end_excerpt-->
+<!--more-->
 
 Great we have a segmentation fault. 4128 bytes is enough to overflow the return address.
 
