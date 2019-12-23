@@ -6,7 +6,9 @@ The hardest part of the challenge was to determine the target architecture of th
 
 The given  [binary](https://dctf.def.camp/quals-2017-kalskflsafkl/public_crack.bin) is a Chip8 ROM file. This information was not mentioned in the task statement, however the task title gave me a hint about the target CPU.
 
-Disassemble the binary with a Chip8 disassembler
+Disassemble the binary with a Chip8 disassembler:
+
+<!--more-->
 
 ```c
         start:
