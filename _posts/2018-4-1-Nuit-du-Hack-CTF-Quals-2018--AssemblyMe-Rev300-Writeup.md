@@ -13,6 +13,7 @@ The steps I followed to solve the challenge were:
 [+] Read Webpage source code  
 [+] Invoke the authentication function from Chrome console  
   
+<!--more-->
 
 ```javascript
 Module["asm"]["_checkAuth"]("maro")
