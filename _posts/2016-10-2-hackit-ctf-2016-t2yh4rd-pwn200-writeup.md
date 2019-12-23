@@ -11,6 +11,8 @@ The seed is calculated based on current time stamp and current process id. We do
 
 Here is the exploit. Don't ask me why I wrote it in C !
 
+<!--more-->
+
 ```c
 #include <time.h>
 #include <stdio.h>
