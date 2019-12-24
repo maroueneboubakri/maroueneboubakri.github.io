@@ -1,8 +1,8 @@
 Hi,
  
-The challenge file is [https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view](here)
+Challenge file is [here](https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view)
   
-Following is my solver using Angr: 
+Following is my Angr-based solver: 
 
 <!--more-->
 
