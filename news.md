@@ -42,5 +42,6 @@ permalink: /news/
  - Mar 2014: Teaching assistant at International University of Tunis (UIT)
  - Feb 2014: I joined Higher Institute of Technological Studies in Communications (ISET'COM) as Teaching Assistant
  - Jan 2014: Graduated from Higher School of Communication of Tunis - SUPCOM
+ - Jun 2013 / Paris: Participated in Nuit Du Hack Wargame
  - Apr 2013 / Tunis: First place Winner of Hack Zone CTF 2013
  - Apr 2011 / Tunis: First place winner of Securiday CTF 2011
