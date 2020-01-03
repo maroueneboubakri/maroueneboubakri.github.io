@@ -39,6 +39,7 @@ permalink: /news/
  - Apr 2014 / Tunis: First place Winner of Hack Zone CTF 2014
  - Apr 2014 / Tunis: First place Winner of Securiday CTF 2014
  - Sept 2014: Attended Tunisia Polytechnic School as PhD Student
+ - Jul 2014: Organized the worldwide CTF competition, Pwnium CTF 2014 
  - Mar 2014: Teaching assistant at International University of Tunis (UIT)
  - Feb 2014: I joined Higher Institute of Technological Studies in Communications (ISET'COM) as Teaching Assistant
  - Jan 2014: Graduated from Higher School of Communication of Tunis - SUPCOM
