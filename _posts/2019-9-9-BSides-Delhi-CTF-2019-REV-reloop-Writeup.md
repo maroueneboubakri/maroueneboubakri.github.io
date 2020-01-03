@@ -1,3 +1,7 @@
+---
+title: BSides Delhi CTF 2019 REV/reloop - Writeup
+---
+
 Hi,
  
 Challenge file is [here](https://drive.google.com/file/d/1JRm-E1HRVU8EmAlhz1ajADmUEyk6hpF4/view)
