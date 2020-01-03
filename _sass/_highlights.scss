@@ -2,6 +2,12 @@ $background: #272822;
 
 .highlight {
   background-color: $background;
+  font-family: monospace;
+  /* font-size: 90%; */
+  padding: 7px 7px 7px 10px;
+  margin: 20px 0 20px 0;
+  overflow: scroll;
+
 
   .hll {
     background-color: #49483e;
