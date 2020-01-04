@@ -1,3 +1,7 @@
+---
+title: IceCTF 2016 - Slicker Server - pwn300 - writeup
+---
+
 Hi,
   
 Well, my team Pwnium finished #4th in this CTF. 
