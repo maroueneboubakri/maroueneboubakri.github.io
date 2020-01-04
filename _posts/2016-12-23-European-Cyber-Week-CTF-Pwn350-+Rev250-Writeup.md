@@ -1,3 +1,7 @@
+---
+title: European Cyber Week CTF - Pwn350 + Rev250 - Writeup
+---
+
 Hi,
 
 This time I will just publish the exploits I wrote to solve the tasks.
