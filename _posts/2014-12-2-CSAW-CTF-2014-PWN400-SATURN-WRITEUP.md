@@ -1,3 +1,7 @@
+---
+title: CSAW CTF 2014 - Saturn - Pwn400 - Writeup
+---
+
 Hello, 
 
 The task was about bypassing a challenge response authentication system, without having access to the library that check the submittet response. The first run of the binary gives a message telling that the libchallengeresponse.so is missing.
