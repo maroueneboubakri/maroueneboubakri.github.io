@@ -1,5 +1,5 @@
 ---
-title: [Writeup] CSAW CTF Qualification Round 2017- realism - rev400
+title: CSAW CTF Qualification Round 2017- realism - rev400 - Writeup
 ---
 
 Hi,
