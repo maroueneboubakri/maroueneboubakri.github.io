@@ -1,3 +1,6 @@
+---
+title: 3DS CTF 2016 - High Power Computing - rev500 - writeup
+---
 
 Hello,
 
