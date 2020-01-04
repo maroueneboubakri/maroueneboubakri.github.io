@@ -1,3 +1,6 @@
+---
+title: Hackit CTF 2016 - t2yh4rd - pwn200 - writeup
+---
 
 Hello,
 
