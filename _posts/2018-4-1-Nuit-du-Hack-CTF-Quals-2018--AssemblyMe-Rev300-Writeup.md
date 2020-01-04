@@ -1,3 +1,6 @@
+---
+title: [Writeup] Nuit du Hack CTF Quals 2018 - AssemblyMe - Rev300
+---
 
 Hi,  
   
