@@ -1,3 +1,8 @@
+---
+title: Kaspersky Industrial CTF Quals 2017 - Web Keygen - rev700 - Writeup
+---
+
+
 Hi,
 
 Typically this was not really a web task but a reversing one instead. The task implements a relatively small and straightforward custom VM interpreter using Javascript.
