@@ -1,3 +1,7 @@
+---
+title: Codegate CTF 2014 - RE250 - Clone Technique - Writeup
+---
+
 Hi !
 
 On executing the file, the process will be duplicated 400 times. Each process creates its child by a command line that contains 3 arguments. The first and second arguments are numbers used in a hashing function and used also to generate the next process arguments. The third argument is the process number.
