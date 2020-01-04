@@ -1,5 +1,5 @@
 ---
-title: [Writeup] BSides Delhi CTF 2019 REV reloop
+title: BSides Delhi CTF 2019 - Reloop Reversing - Writeup
 ---
 
 Hi,
