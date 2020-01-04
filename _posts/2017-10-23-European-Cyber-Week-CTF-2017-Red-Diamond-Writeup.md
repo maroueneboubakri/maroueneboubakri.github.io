@@ -1,3 +1,6 @@
+---
+title: [Writeup] European Cyber Week CTF 2017 - Red Diamond
+---
 
 Hi,
 
