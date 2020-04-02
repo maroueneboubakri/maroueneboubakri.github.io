@@ -29,7 +29,7 @@ Inactive Members:
  - Segmentation__Fault 
  - @1n1t0
 
-* = Founder
+\* = Founder
 
 **Selected Awards**
 
