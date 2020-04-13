@@ -20,7 +20,7 @@ Former Members:
  - KERRO (2019, 2018) 
  - dali (2019, 2018)
  -  Aziz (2018) 
- - Segflow (2014, 2015)
+ - Segflow (2014, 2015) *
  - achn30 (2014, 2015) 
  - DeadHeadTn (2014) *
  - Xx__ (2014) *
