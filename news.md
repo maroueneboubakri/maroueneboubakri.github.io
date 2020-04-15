@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+ - Arp 2020: I launched a digital security learning [platform](https://ctf.hackfest.tn/).
  - Dec 13 2019 / Sophia-Antipolis: I participated in Ph0wn CTF
  - Nov 06-08 2019 / Abu Dhabi: **I participated in CSAW CTF Finals and won the First prize**
  - Oct 19-20 2019: Antibes: Partcipated in "Le Village des Sciences et de l'Innovation"
