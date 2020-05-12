@@ -17,7 +17,7 @@ permalink: /news/
  - Oct 18 2018 / Limoges: Forum Avenir - hire students for internship positions
  - Oct 19 2018 / Bordeaux: Forum Ingenib - hire students for internship positions
  - Oct 20-21 2018: Antibes: Partcipated in "Le Village des Sciences et de l'Innovation"
- - Sept 2018: Discovred my first [CVE-2018-16836](https://nvd.nist.gov/vuln/detail/CVE-2018-16836)
+ - Sept 2018: **Discovred my first [CVE-2018-16836](https://nvd.nist.gov/vuln/detail/CVE-2018-16836)**
  - Apr 21-22 2018 / Tunis: Organised the fourth edition of Hackfest
  - Apr 14 2018 / Tunis: Won the first prize of Hack Zone Tunisia CTF
  - Apr 05 2018 / Lyon: I participated on-site in INS'hAck CTF 2018 and won the Second prize
