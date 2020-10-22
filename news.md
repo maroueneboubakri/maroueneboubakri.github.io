@@ -13,17 +13,17 @@ permalink: /news/
  - Apr 14 2019 / Tunis : I participated in Securinets CTF Finals and won the First prize
  - Jan 28-29 2019/Lille : I Attended the Forum International de la Cybersécurité (FIC)
  - Nov 08-10 2018 / Valence: **I judged the CSAW 2018 EUROPE Embedded Security Challenge**
- - Nov 21 2018 / Rennes: I partcipated in European Cyber Week (ECW)
+ - Nov 21 2018 / Rennes: I participated in European Cyber Week (ECW)
  - Oct 18 2018 / Limoges: Forum Avenir - hire students for internship positions
  - Oct 19 2018 / Bordeaux: Forum Ingenib - hire students for internship positions
  - Oct 20-21 2018: Antibes: Partcipated in "Le Village des Sciences et de l'Innovation"
- - Sept 2018: **Discovred my first [CVE-2018-16836](https://nvd.nist.gov/vuln/detail/CVE-2018-16836)**
+ - Sept 2018: **Discovered my first [CVE-2018-16836](https://nvd.nist.gov/vuln/detail/CVE-2018-16836)**
  - Apr 21-22 2018 / Tunis: Organised the fourth edition of Hackfest
  - Apr 14 2018 / Tunis: Won the first prize of Hack Zone Tunisia CTF
  - Apr 05 2018 / Lyon: I participated on-site in INS'hAck CTF 2018 and won the Second prize
  - Apr 2018: Winner - Tunisie Telecom Security Day CTF 2018
- - Nov 09-10 2017 / Bucharest: I Played the DefCamp CTF onsite finals
- - Nov 2017: I partcipated in European Cyber Week (ECW) and conducted EURECOM to the top ranked school
+ - Nov 09-10 2017 / Bucharest: I Played the DefCamp CTF on-site finals
+ - Nov 2017: I participated in European Cyber Week (ECW) and conducted EURECOM to the top-ranked school
  - Sep 13 2017 : Qualification for CSAW CTF 2017 finals
  - Sep 2017: Teaching assistant at Private Higher School of Engineering and Technology (ESPRIT)
  - Apr 21-22 2017 / Tunis: Organised the third edition of Hackfest
@@ -35,14 +35,14 @@ permalink: /news/
  - 2016 / Tunis: First place Winner of Securiday CTF 2016
  - Sept 2015: Attended EURECOM - Graduate school and Research Centre in digital sciences
  - Apr 11-12 2015 / Tunis: Founded the Hackfest - National Cyber Security Challenge
- - 2015 Tunis: Premier Prix du Esprit Hack Days CTF 2015
+ - 2015 Tunis: First place Winner of Esprit Hack Days CTF 2015
  - Dec 03-06 2014 / Tunis: I won the First prize of IBM Tunisia Hackathon
  - Apr 2014 / Tunis: First place Winner of Hack Zone CTF 2014
  - Apr 2014 / Tunis: First place Winner of Securiday CTF 2014
- - Sept 2014: Attended Tunisia Polytechnic School as PhD Student
+ - Sept 2014: Attended Tunisia Polytechnic School as Ph.D. Student
  - Jul 2014: Organized the worldwide CTF competition, Pwnium CTF 2014 
  - Mar 2014: Teaching assistant at International University of Tunis (UIT)
- - Feb 2014: I joined Higher Institute of Technological Studies in Communications (ISET'COM) as Teaching Assistant
+ - Feb 2014: I joined the Higher Institute of Technological Studies in Communications (ISET'COM) as Teaching Assistant
  - Jan 2014: Graduated from Higher School of Communication of Tunis - SUPCOM
  - Jun 2013 / Paris: Participated in Nuit Du Hack Wargame
  - Apr 2013 / Tunis: First place Winner of Hack Zone CTF 2013
