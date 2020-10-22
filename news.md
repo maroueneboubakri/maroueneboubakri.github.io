@@ -3,7 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-
+ - Aug 2020: Listed in Google Bughunter Hall of Fame [Honorable Mentions](https://bughunter.withgoogle.com/profile/a12bab83-a5fa-4d42-9c78-be31cc49eef6).
  - Arp 2020: I launched a digital security learning [platform](https://ctf.hackfest.tn/).
  - Dec 13 2019 / Sophia-Antipolis: I participated in Ph0wn CTF
  - Nov 06-08 2019 / Abu Dhabi: **I participated in CSAW CTF Finals and won the First prize**
