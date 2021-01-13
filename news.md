@@ -3,6 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
+ - Jan 2021: Joined [RISC-V International](https://riscv.org/) as member
+ - Nov 2020: Research paper "Towards a firmware TPM on RISC-V" accepted at [The Design, Automation, and Test in Europe (DATE) Conference 2021](https://www.date-conference.com/).
  - Aug 2020: Listed in Google Bughunter Hall of Fame [Honorable Mentions](https://bughunter.withgoogle.com/profile/a12bab83-a5fa-4d42-9c78-be31cc49eef6).
  - Arp 2020: I launched a digital security learning [platform](https://ctf.hackfest.tn/).
  - Dec 13 2019 / Sophia-Antipolis: I participated in Ph0wn CTF
