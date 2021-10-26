@@ -3,6 +3,10 @@ layout: page
 title: News
 permalink: /news/
 ---
+ - Oct 2021: Research papers selected by the Program Committee to be presented at CSAW’21 Applied Research Competition Finals.
+ - Oct 2021: First placer winner at Cyber Security Conference CTF, SAMA CTF 2021
+ - Jun 2021: Researcher paper "Open Portable Trusted Execution Environment framework for RISC-V" accepted for presentation at 19th IEEE international conference on embedded and ubiquitous computing (EUC 2021)
+ - Apr 2021: Talk at RISC-V Security Forum 2021: A Trusted OS for RISC-V ? OP-TEE is a Candidate
  - Jan 2021: Joined [RISC-V International](https://riscv.org/) as member
  - Nov 2020: Research paper "Towards a firmware TPM on RISC-V" accepted at [The Design, Automation, and Test in Europe (DATE) Conference 2021](https://www.date-conference.com/).
  - Aug 2020: Listed in Google Bughunter Hall of Fame [Honorable Mentions](https://bughunter.withgoogle.com/profile/a12bab83-a5fa-4d42-9c78-be31cc49eef6).
