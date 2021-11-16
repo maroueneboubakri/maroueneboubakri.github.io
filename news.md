@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
+ - Nov 2021: Received a "Best Paper Award" from Cyber Security Awareness Week (CSAW'21) [Applied Research Competition](https://www.csaw.io/research) for paper "Open Portable Trusted Execution Environment framework for RISC-V".
  - Oct 2021: Research papers selected by the Program Committee to be presented at CSAW’21 Applied Research Competition Finals.
  - Oct 2021: First placer winner at Cyber Security Conference CTF, SAMA CTF 2021
  - Jun 2021: Researcher paper "Open Portable Trusted Execution Environment framework for RISC-V" accepted for presentation at 19th IEEE international conference on embedded and ubiquitous computing (EUC 2021)
