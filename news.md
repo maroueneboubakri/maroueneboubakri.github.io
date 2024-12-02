@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
+ - Nov 2024: I have been awarded First Place 🥇 for Best Paper at the Cyber Security Awareness Week (CSAW'24) Applied Research Competition (ARC), held in Abu Dhabi from November 06-09. Paper "Architectural Security and Trust Foundation for RISC-V".
  - Nov 2021: Received a "Best Paper Award" from Cyber Security Awareness Week (CSAW'21) [Applied Research Competition](https://www.csaw.io/research) for paper "Open Portable Trusted Execution Environment framework for RISC-V".
  - Oct 2021: Research papers selected by the Program Committee to be presented at CSAW’21 Applied Research Competition Finals.
  - Oct 2021: First placer winner at Cyber Security Conference CTF, SAMA CTF 2021
