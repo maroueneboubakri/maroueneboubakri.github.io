@@ -3,7 +3,14 @@ layout: page
 title: News
 permalink: /news/
 ---
+- Dec 2025: My paper "GATOR-V: Accelerating the RISC-V Confidential Computing Ecosystem with a Production-Grade TEE" has been accepted and published in IEEE Access (Q1, IF 3.6). 
+  https://doi.org/your-ieeeaccess-link
+- Nov 2025: My research paper "A Survey of RISC-V Secure Enclaves and Trusted Execution Environments" has been accepted and published in MDPI Electronics (IF 2.6). 
+- Dec 2024: Awarded 3rd Place at Ph0wn CTF 2024, Sophia-Antipolis, France.
+- Jun 2024: My research paper "Architectural Security and Trust Foundation for RISC-V" has been accepted for publication.
  - Nov 2024: I have been awarded First Place 🥇 for Best Paper at the Cyber Security Awareness Week (CSAW'24) Applied Research Competition (ARC), held in Abu Dhabi from November 06-09. Paper "Architectural Security and Trust Foundation for RISC-V".
+ - Jun 2023: Delivered a talk at the Embedded Linux Conference / Embedded Open Source Summit 2023:  
+   Shield Your Devices: The Strength of Open-Source Software and Hardware".
  - Nov 2021: Received a "Best Paper Award" from Cyber Security Awareness Week (CSAW'21) [Applied Research Competition](https://www.csaw.io/research) for paper "Open Portable Trusted Execution Environment framework for RISC-V".
  - Oct 2021: Research papers selected by the Program Committee to be presented at CSAW’21 Applied Research Competition Finals.
  - Oct 2021: First placer winner at Cyber Security Conference CTF, SAMA CTF 2021
