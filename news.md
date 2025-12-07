@@ -3,8 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
-- Dec 2025: My paper "GATOR-V: Accelerating the RISC-V Confidential Computing Ecosystem with a Production-Grade TEE" has been accepted and published in IEEE Access (Q1, IF 3.6). 
-  https://doi.org/your-ieeeaccess-link
+- Dec 2025: My paper "GATOR-V: Accelerating the RISC-V Confidential Computing Ecosystem with a Production-Grade TEE" has been accepted and published in IEEE Access (Q1, IF 3.6).
 - Nov 2025: My research paper "A Survey of RISC-V Secure Enclaves and Trusted Execution Environments" has been accepted and published in MDPI Electronics (IF 2.6). 
 - Dec 2024: Awarded 3rd Place at Ph0wn CTF 2024, Sophia-Antipolis, France.
 - Jun 2024: My research paper "Architectural Security and Trust Foundation for RISC-V" has been accepted for publication.
